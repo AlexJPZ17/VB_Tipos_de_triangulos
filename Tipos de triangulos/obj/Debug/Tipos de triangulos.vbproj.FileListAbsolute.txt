@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos_de_triangulos.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.pdb
